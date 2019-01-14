@@ -1,6 +1,6 @@
 # moza-banko
 
-> A Vue.js project
+> A simple Vue.js data table to manage registration of bank customers.
 
 ## Build Setup
 
