@@ -1,6 +1,10 @@
 # moza-banko
 
-> A simple Vue.js data table to manage registration of bank customers.
+> A simple Vue.js data table demo to manage registration of bank customers.
+
+> Generates webpack dist to be deployed on any HTTP server.
+
+> Connects to an Hapi JS based back-end (check node-banka-api repo)
 
 ## Build Setup
 
