@@ -1,4 +1,4 @@
-# moza-banko
+# registration-banka
 
 > A simple Vue.js data table demo to manage registration of bank customers.
 
