@@ -1,4 +1,4 @@
-# registration-banka
+# vue-banka
 
 > A simple Vue.js data table demo to manage registration of bank customers.
 
